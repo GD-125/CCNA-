@@ -14,7 +14,7 @@ I am currently undergoing professional training in **Cisco Certified Network Ass
 
 I enjoy learning new technologies, solving infrastructure challenges and building reliable network and cloud solutions through hands-on practice.
 
-* 🌐 CurrentlyI'm a **Network Engineer**
+* 🌐 Currently I'm a **Network Engineer**
 * ☁️ Aspiring **Cloud Infrastructure Engineer**
 * 📚 Currently pursuing **CCNA** and **Palo Alto Networks** training at **Suren Network**
 * 🔒 Passionate about Networking and Cloud Computing
