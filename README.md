@@ -102,6 +102,9 @@ This folder contains coursework assignments and programming exercises completed 
 
 This folder contains laboratory exercises and practical networking labs, including networking configurations and other hands-on activities completed during my professional training.
 
+### 📁 Projects
+This folder contains the projects I have developed during my learning journey and professional training. These projects demonstrate the practical application of networking and problem-solving skills through real-world implementations, showcasing my technical knowledge, creativity and hands-on experience.
+
 ### 📝 Test Files
 
 This folder contains assessment programs, networking practice tasks and test files used to evaluate and strengthen my technical knowledge.
