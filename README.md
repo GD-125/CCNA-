@@ -68,6 +68,11 @@ I enjoy learning new technologies, solving infrastructure challenges and buildin
 ```text
 Repository/
 │
+├── Core/
+│   ├── WAN/
+│   │    ├── Lab Tasks/
+|   |    |      ├── Lab1
+│   |    |      ├── Lab2
 ├── Homeworks/
 │   ├── Assignment1
 │   ├── Assignment2
