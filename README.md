@@ -68,11 +68,6 @@ I enjoy learning new technologies, solving infrastructure challenges and buildin
 ```text
 Repository/
 │
-├── Core/
-│   ├── WAN/
-│   │    ├── Lab Tasks/
-|   |    |      ├── Lab1
-│   |    |      ├── Lab2
 ├── Homeworks/
 │   ├── Assignment1
 │   ├── Assignment2
@@ -113,22 +108,6 @@ This folder contains the projects I have developed during my learning journey an
 ### 📝 Test Files
 
 This folder contains assessment programs, networking practice tasks and test files used to evaluate and strengthen my technical knowledge.
-
-### 🌐 Core
-
-This folder contains the core networking technologies that form the foundation of enterprise networks. It includes WAN, Switching and Routing concepts, configurations and practical implementations completed during my learning journey.
-
-### 🌍 WAN
-
-This folder contains Wide Area Network (WAN) configurations and practical exercises. It covers enterprise connectivity technologies, WAN protocols and inter-network communication.
-
-### 🔀 Switching
-
-This folder contains switching configurations and laboratory exercises focused on Layer 2 networking. It includes VLANs, trunking, STP, EtherChannel and other essential switching technologies.
-
-### 🛣️ Routing
-
-This folder contains routing configurations and hands-on networking exercises. It includes static and dynamic routing protocols, route optimization and inter-network communication concepts.
 
 ---
 
